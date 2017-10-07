@@ -1,0 +1,12 @@
+[	
+	{
+		"op" : "add",
+		"path" : "/survival/allowBeamUpUnderground",
+		"value" : true
+	},
+	{
+		"op" : "add",
+		"path" : "/survival/reviveCostPercentile",
+		"value" : 0.1
+	}
+]

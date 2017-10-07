@@ -1,0 +1,7 @@
+[
+	{
+		"op": "add",
+		"path": "/maxStack",
+		"value": 50
+	}
+]

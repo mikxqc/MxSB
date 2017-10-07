@@ -1,0 +1,18 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/statusControllerSettings/stats/foodDelta",
+		"value" : {
+			"baseValue" : -0.0194
+			}
+	},
+	{
+		"op" : "replace",
+		"path" : "/statusControllerSettings/resources/food",
+		"value" : {
+			"deltaStat" : "foodDelta",
+			"initialPercentage" : 1.0,
+			"maxValue" : 70
+			}
+	}
+]
