@@ -28,6 +28,9 @@
     },
     "xenonglow"
   ],
+  
+  "acceptsAugmentType" : "back",
+  "radioMessagesOnPickup" : [ "pickupepp" ],
 
   "colorOptions" : [
     // DEFAULT
