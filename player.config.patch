@@ -14,5 +14,19 @@
 			"initialPercentage" : 1.0,
 			"maxValue" : 70
 			}
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "xenonprotheat"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "xenonprotcold"
+		}
 	}
 ]
