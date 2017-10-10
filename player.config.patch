@@ -28,5 +28,26 @@
 		"value": {
 			"item": "xenonprotcold"
 		}
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "mxtable"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "salvageprotcold"
+		}
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "salvageprotheat"
+		}
 	}
 ]
