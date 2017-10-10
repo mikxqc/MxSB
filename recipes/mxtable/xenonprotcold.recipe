@@ -7,5 +7,5 @@
     { "item" : "smallbattery", "count" : 4 }
   ],
   "output" : { "item" : "xenonprotcold", "count" : 1 },
-  "groups" : [ "craftinganvil3", "hazardgear", "all" ]
+  "groups" : [ "mxtable", "hazardgear", "all" ]
 }
